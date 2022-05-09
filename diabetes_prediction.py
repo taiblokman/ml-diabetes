@@ -23,7 +23,7 @@ import pickle
 PIMA diabetes dataset
 """
 
-df = pd.read_csv('/content/diabetes.csv')
+df = pd.read_csv('content/diabetes.csv')
 
 df.head()
 
